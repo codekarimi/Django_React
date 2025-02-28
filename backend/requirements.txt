@@ -2,8 +2,7 @@ asgiref
 Django                        
 django-cors-headers          
 djangorestframework           
-djangorestframework_simplejwt 
-pip                           
+djangorestframework_simplejwt               
 psycopg2                      
 psycopg2-binary               
 PyJWT                         
